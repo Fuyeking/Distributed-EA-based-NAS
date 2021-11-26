@@ -31,7 +31,7 @@ from pelee_nas.pelee import PeleeNet as Pelee
 
 module = __import__("dml.dml_work_process")
 # Hyper Parameters
-EPOCH = 2  # train the training data n times, to save time, we just train 1 epoch
+EPOCH = 1  # train the training data n times, to save time, we just train 1 epoch
 BATCH_SIZE = 256
 LR = 0.18  # learning rate
 Momentum = 0.9
