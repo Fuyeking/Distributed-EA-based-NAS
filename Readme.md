@@ -1,4 +1,3 @@
 The basic code for the distributed EA-based NAS  
-*[CCF-A](#ccf-a)
-    + [2021](#2021)
-    + [2020](#2020)
+[DML]: The basic network communication interface is used to build a multi-node distributed framework  
+[pelee_nas]: The fundamental function of evolutionary computation and PeleeNet(https://github.com/Robert-JunWang/Pelee). 
