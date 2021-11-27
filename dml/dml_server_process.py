@@ -4,7 +4,7 @@ from multiprocessing import Process
 from dml import server_proxy as sn
 
 
-# 服务端的接受线程
+# 服务端的接收线程
 class ServerRecBaseProcess(Process):
 
     def __init__(self, thread_name):
